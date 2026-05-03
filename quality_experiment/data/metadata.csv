@@ -1,0 +1,11 @@
+image_id,image_path,gt_path,offset_x,offset_y,lattice_spacing,gaussian_sigma,image_size
+img_000,quality_experiment\data\clean\img_000.png,quality_experiment\data\gt\img_000_gt.csv,1.0958,-0.2445,16,2.0,256
+img_001,quality_experiment\data\clean\img_001.png,quality_experiment\data\gt\img_001_gt.csv,1.4344,0.7895,16,2.0,256
+img_002,quality_experiment\data\clean\img_002.png,quality_experiment\data\gt\img_002_gt.csv,-1.6233,1.9025,16,2.0,256
+img_003,quality_experiment\data\clean\img_003.png,quality_experiment\data\gt\img_003_gt.csv,1.0446,1.1443,16,2.0,256
+img_004,quality_experiment\data\clean\img_004.png,quality_experiment\data\gt\img_004_gt.csv,-1.4875,-0.1985,16,2.0,256
+img_005,quality_experiment\data\clean\img_005.png,quality_experiment\data\gt\img_005_gt.csv,-0.5168,1.7071,16,2.0,256
+img_006,quality_experiment\data\clean\img_006.png,quality_experiment\data\gt\img_006_gt.csv,0.5755,1.291,16,2.0,256
+img_007,quality_experiment\data\clean\img_007.png,quality_experiment\data\gt\img_007_gt.csv,-0.2263,-1.091,16,2.0,256
+img_008,quality_experiment\data\clean\img_008.png,quality_experiment\data\gt\img_008_gt.csv,0.2183,-1.7447,16,2.0,256
+img_009,quality_experiment\data\clean\img_009.png,quality_experiment\data\gt\img_009_gt.csv,1.3105,0.5267,16,2.0,256
